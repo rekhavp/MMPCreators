@@ -2,6 +2,8 @@ package examples;
 
 public interface I1 {
 	
+	
+	
 	//public static final keywords are optional
 	 public static final int i=30;
 	 
